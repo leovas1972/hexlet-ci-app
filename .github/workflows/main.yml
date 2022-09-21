@@ -18,7 +18,5 @@ jobs:
 #      run: make start
     - name: Test
       run: make test
-    - name: Lint
-      run: make lint
 
     
