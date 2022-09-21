@@ -1,5 +1,12 @@
 # Example app for CI Hexlet course
 
+## Непрерывная интеграция (CI)
+###  GitHub Actions
+
+##### status of last deploiment<br>
+<img src="https://github.com/leovas1972/
+hexlet-ci-app/workflows/CI/badge.svg">
+
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
 ## System requirements
